@@ -12,6 +12,7 @@ int main(void)
   cout<<"hello world!"<<endl;
   cout<<"second commit"<<endl;
   cout<<"third commit"<<endl;
+  cout<<"fourth"<<endl;
   return 0;
 }
 
