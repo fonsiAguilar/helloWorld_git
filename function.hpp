@@ -8,9 +8,9 @@
 #ifndef FUNCTION_HPP_
 #define FUNCTION_HPP_
 
-int doSeventhings(void)
+int doEightThings(void)
 {
-  std::cout<<"seven things"<<std::endl;
+  std::cout<<"eight things"<<std::endl;
 }
 
 
