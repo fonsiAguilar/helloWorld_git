@@ -11,7 +11,7 @@ int main(void)
 {
   cout<<"hello world!"<<endl;
   cout<<"second commit"<<endl;
-  cout<<"third commint"<<endl;
+  cout<<"third commit"<<endl;
   return 0;
 }
 
