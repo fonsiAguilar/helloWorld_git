@@ -8,7 +8,10 @@
 #ifndef FUNCTION_HPP_
 #define FUNCTION_HPP_
 
-
+int doSeventhings(void)
+{
+  cout<<"seven things"<<endl;
+}
 
 
 
