@@ -15,11 +15,7 @@ int main(void)
   cout<<"fourth"<<endl;
   //Edited online
   cout<<"edited online"<<endl;
-<<<<<<< HEAD
-  cout<<"my real fourth commit, just after editing online"<<endl;
-=======
-  cout<<"my real fourth commint, just after editing online"<<endl;
->>>>>>> 53198456da39d90ca253dfbb15f4b2bf9788daa5
+  cout<<"my real fifth commit, just after editing online"<<endl;
   return 0;
 }
 
